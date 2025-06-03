@@ -1,11 +1,9 @@
 # 絶アレキサンダー討滅戦
 
-こちらの内容は、Splatoon公式Githubのレイアウトを翻訳し、一部修正を加えたものです。
-
+こちらの内容は、Splatoon公式Githubのレイアウトを翻訳し、一部修正を加えたものです。<br>
 https://github.com/PunishXIV/Splatoon/blob/main/Presets/Shadowbringers/Duties/Ultimate%20-%20The%20Epic%20of%20Alexander.md
 
-処理法は野良で主流の《ぬけまる/ヤ無視20/1211/ヒラ先/時間停止脳死/断絶34固定》となります。
-
+処理法は野良で主流の《ぬけまる/ヤ無視20/1211/ヒラ先/時間停止脳死/断絶34固定》となります。<br>
 https://ffxiv.link/099777
 
 ## レイアウト
